@@ -1,0 +1,4570 @@
+[
+  {
+    "conceptId": "3435",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjy18t9qkaz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1800 - 1900"
+      }
+    ]
+  },
+  {
+    "conceptId": "3758",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2mb8rw7ryw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "cinéma"
+      }
+    ]
+  },
+  {
+    "conceptId": "3771",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvisirj5hcy",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "jeunesse"
+      }
+    ]
+  },
+  {
+    "conceptId": "169890",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7dcpktdnvc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "article journalistique"
+      }
+    ]
+  },
+  {
+    "conceptId": "10",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7geop7328a",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "religieux"
+      }
+    ]
+  },
+  {
+    "conceptId": "116",
+    "arkId": "",
+    "handleId": "20.500.11942/crtr6443laypa",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dictionnaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "120",
+    "arkId": "",
+    "handleId": "20.500.11942/crtetui84cbgk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fabliau"
+      }
+    ]
+  },
+  {
+    "conceptId": "119217",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxza8o54kx3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (bestiaire)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119222",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3n5bh929c4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "minute"
+      }
+    ]
+  },
+  {
+    "conceptId": "169904",
+    "arkId": "",
+    "handleId": "20.500.11942/crt1fh7mjcuye",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "poème figuré"
+      }
+    ]
+  },
+  {
+    "conceptId": "169902",
+    "arkId": "",
+    "handleId": "20.500.11942/crtf9ciqttbh2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "contrepèterie"
+      }
+    ]
+  },
+  {
+    "conceptId": "169892",
+    "arkId": "",
+    "handleId": "20.500.11942/crtj6tby4dk47",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "adage"
+      }
+    ]
+  },
+  {
+    "conceptId": "169900",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxtjjppon5c",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "proverbe"
+      }
+    ]
+  },
+  {
+    "conceptId": "169898",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwgz5s6l579",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "maxime"
+      }
+    ]
+  },
+  {
+    "conceptId": "169906",
+    "arkId": "",
+    "handleId": "20.500.11942/crtrlzheqwisl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "nuage de mots"
+      }
+    ]
+  },
+  {
+    "conceptId": "169908",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmiao9ucyaf",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "anecdote"
+      }
+    ]
+  },
+  {
+    "conceptId": "169910",
+    "arkId": "",
+    "handleId": "20.500.11942/crt1eufb54l7a",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "annales"
+      }
+    ]
+  },
+  {
+    "conceptId": "169912",
+    "arkId": "",
+    "handleId": "20.500.11942/crtisms26kfqk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "anti-roman"
+      }
+    ]
+  },
+  {
+    "conceptId": "169960",
+    "arkId": "",
+    "handleId": "20.500.11942/crtn45oi3wlgz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "encyclique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169962",
+    "arkId": "",
+    "handleId": "20.500.11942/crtg5pf93dewy",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "énigme"
+      }
+    ]
+  },
+  {
+    "conceptId": "169964",
+    "arkId": "",
+    "handleId": "20.500.11942/crtto5sfm5na2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "épigramme"
+      }
+    ]
+  },
+  {
+    "conceptId": "169966",
+    "arkId": "",
+    "handleId": "20.500.11942/crtct8yu1bfa5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "épilogue"
+      }
+    ]
+  },
+  {
+    "conceptId": "3774",
+    "arkId": "",
+    "handleId": "20.500.11942/crt67a2fr9hm1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "science-fiction"
+      }
+    ]
+  },
+  {
+    "conceptId": "169970",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2molcndbi9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fantastique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169968",
+    "arkId": "",
+    "handleId": "20.500.11942/crtyyf2v4l83o",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "épithalame"
+      }
+    ]
+  },
+  {
+    "conceptId": "169916",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmvv628l7tp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fable"
+      }
+    ]
+  },
+  {
+    "conceptId": "169918",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxaonxo58xi",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "apologie"
+      }
+    ]
+  },
+  {
+    "conceptId": "169922",
+    "arkId": "",
+    "handleId": "20.500.11942/crtp1hu2x8qmd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "ballade"
+      }
+    ]
+  },
+  {
+    "conceptId": "169924",
+    "arkId": "",
+    "handleId": "20.500.11942/crt97p3ya2hot",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman de formation"
+      }
+    ]
+  },
+  {
+    "conceptId": "169926",
+    "arkId": "",
+    "handleId": "20.500.11942/crt5woxd3bx8n",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "blague"
+      }
+    ]
+  },
+  {
+    "conceptId": "3443",
+    "arkId": "",
+    "handleId": "20.500.11942/crtrverwrwb8v",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "préface"
+      }
+    ]
+  },
+  {
+    "conceptId": "119232",
+    "arkId": "",
+    "handleId": "20.500.11942/crt776c4xf2mt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (paratexte)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119233",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3wci5evc9b",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "privilège"
+      }
+    ]
+  },
+  {
+    "conceptId": "119234",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu1geoffb41",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "emblème"
+      }
+    ]
+  },
+  {
+    "conceptId": "169930",
+    "arkId": "",
+    "handleId": "20.500.11942/crtd8bmk325mb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "blog"
+      }
+    ]
+  },
+  {
+    "conceptId": "119231",
+    "arkId": "",
+    "handleId": "20.500.11942/crttnf4f4si45",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "paratextes"
+      }
+    ]
+  },
+  {
+    "conceptId": "169972",
+    "arkId": "",
+    "handleId": "20.500.11942/crtobs9bhtx9t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fatrasie"
+      }
+    ]
+  },
+  {
+    "conceptId": "169978",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzqiu6ovlsl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fragment"
+      }
+    ]
+  },
+  {
+    "conceptId": "169980",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6z1bzhd1x7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pastiche"
+      }
+    ]
+  },
+  {
+    "conceptId": "169982",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzjodedgefn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "ghazel"
+      }
+    ]
+  },
+  {
+    "conceptId": "119241",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdgzi4aigq2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "erotic"
+      },
+      {
+        "lang": "es",
+        "value": "erótico"
+      },
+      {
+        "lang": "fr",
+        "value": "érotique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169934",
+    "arkId": "",
+    "handleId": "20.500.11942/crther6fey6rp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chanson de toile"
+      }
+    ]
+  },
+  {
+    "conceptId": "169940",
+    "arkId": "",
+    "handleId": "20.500.11942/crt5rrm21d9vn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "codex"
+      }
+    ]
+  },
+  {
+    "conceptId": "169942",
+    "arkId": "",
+    "handleId": "20.500.11942/crth1ritp3g2u",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "rouleau"
+      }
+    ]
+  },
+  {
+    "conceptId": "170004",
+    "arkId": "",
+    "handleId": "20.500.11942/crtyyqzn7g6y5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "légende"
+      }
+    ]
+  },
+  {
+    "conceptId": "119239",
+    "arkId": "",
+    "handleId": "20.500.11942/crtqzxazf3p72",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (forme brève)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119240",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzbsll1qtrm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (roman)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119242",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu9z3lp4pi4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "graffiti"
+      }
+    ]
+  },
+  {
+    "conceptId": "119243",
+    "arkId": "",
+    "handleId": "20.500.11942/crtoe8wst3b15",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "tag"
+      }
+    ]
+  },
+  {
+    "conceptId": "119244",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmwc83qu469",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (inscription)"
+      }
+    ]
+  },
+  {
+    "conceptId": "169936",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6o8i2dky3p",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chant royal"
+      }
+    ]
+  },
+  {
+    "conceptId": "119236",
+    "arkId": "",
+    "handleId": "20.500.11942/crtv5dfb6qe1b",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pastorale"
+      }
+    ]
+  },
+  {
+    "conceptId": "3431",
+    "arkId": "",
+    "handleId": "20.500.11942/crthvsedclvvn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "satyre"
+      }
+    ]
+  },
+  {
+    "conceptId": "169938",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnmoddvbrad",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "cinéroman"
+      }
+    ]
+  },
+  {
+    "conceptId": "169944",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkxe8ug8ri9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comptine"
+      }
+    ]
+  },
+  {
+    "conceptId": "169946",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzsjdmtztlo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "conte de fées"
+      }
+    ]
+  },
+  {
+    "conceptId": "169948",
+    "arkId": "",
+    "handleId": "20.500.11942/crtc57nnuf5li",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "conte philosophique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169952",
+    "arkId": "",
+    "handleId": "20.500.11942/crtsnwis2sa8j",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dissertation"
+      }
+    ]
+  },
+  {
+    "conceptId": "169954",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnxc85cbpqh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "drabble"
+      }
+    ]
+  },
+  {
+    "conceptId": "169956",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnyjw55wnbg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "drame romantique"
+      }
+    ]
+  },
+  {
+    "conceptId": "119238",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfa527tzp1h",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "nouvelle"
+      }
+    ]
+  },
+  {
+    "conceptId": "169958",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgwrlxr2c6f",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "élégie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170006",
+    "arkId": "",
+    "handleId": "20.500.11942/crto8k1hjftos",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "libelle"
+      }
+    ]
+  },
+  {
+    "conceptId": "170008",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvh11pe8t74",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "litanie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170010",
+    "arkId": "",
+    "handleId": "20.500.11942/crty5r5mke4vg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "madrigal"
+      }
+    ]
+  },
+  {
+    "conceptId": "170012",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlyeb8qcrqs",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mélodrame"
+      }
+    ]
+  },
+  {
+    "conceptId": "170014",
+    "arkId": "",
+    "handleId": "20.500.11942/crth225d7hogw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "ana"
+      }
+    ]
+  },
+  {
+    "conceptId": "170024",
+    "arkId": "",
+    "handleId": "20.500.11942/crtthc55iupgt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "manuel"
+      }
+    ]
+  },
+  {
+    "conceptId": "170046",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbdm5xnc6io",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "feuilleton"
+      }
+    ]
+  },
+  {
+    "conceptId": "53350",
+    "arkId": "",
+    "handleId": "20.500.11942/crtksrfhcn7ub",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genré"
+      }
+    ]
+  },
+  {
+    "conceptId": "53352",
+    "arkId": "",
+    "handleId": "20.500.11942/crthgh9fkqkrr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "régional"
+      }
+    ]
+  },
+  {
+    "conceptId": "7089",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjiz31wfhsm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "feuille"
+      }
+    ]
+  },
+  {
+    "conceptId": "170060",
+    "arkId": "",
+    "handleId": "20.500.11942/crtpjslzn7t51",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "thriller"
+      }
+    ]
+  },
+  {
+    "conceptId": "53354",
+    "arkId": "",
+    "handleId": "20.500.11942/crtopeeh49frp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autobiographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170070",
+    "arkId": "",
+    "handleId": "20.500.11942/crtk7sq9kazow",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "almanach"
+      }
+    ]
+  },
+  {
+    "conceptId": "53356",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3pfbbpv3ml",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "abécédaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "53358",
+    "arkId": "",
+    "handleId": "20.500.11942/crt25kxp679ah",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "contrat"
+      }
+    ]
+  },
+  {
+    "conceptId": "53360",
+    "arkId": "",
+    "handleId": "20.500.11942/crt64j22kdt9w",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "arrêt"
+      }
+    ]
+  },
+  {
+    "conceptId": "53361",
+    "arkId": "",
+    "handleId": "20.500.11942/crt89ytsx5fuu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "minute notariale"
+      }
+    ]
+  },
+  {
+    "conceptId": "222",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8otnxbfxx2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sciences"
+      }
+    ]
+  },
+  {
+    "conceptId": "54",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjydzhufnnx",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "journalistique"
+      }
+    ]
+  },
+  {
+    "conceptId": "18",
+    "arkId": "",
+    "handleId": "20.500.11942/crtt3l4jg2ifo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "type de discours"
+      }
+    ]
+  },
+  {
+    "conceptId": "44",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbb7evgo9rt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "forme de texte"
+      }
+    ]
+  },
+  {
+    "conceptId": "48",
+    "arkId": "",
+    "handleId": "20.500.11942/crtiaqspo32oe",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "vers"
+      }
+    ]
+  },
+  {
+    "conceptId": "218",
+    "arkId": "",
+    "handleId": "20.500.11942/crtoi2lw6ccga",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1400 - 1500"
+      }
+    ]
+  },
+  {
+    "conceptId": "128",
+    "arkId": "",
+    "handleId": "20.500.11942/crto3k2dvud79",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "lapidaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "3766",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3sjz14hqyl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "texte/image"
+      }
+    ]
+  },
+  {
+    "conceptId": "169828",
+    "arkId": "",
+    "handleId": "20.500.11942/crt5ujt7z2heg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres narratifs"
+      }
+    ]
+  },
+  {
+    "conceptId": "3441",
+    "arkId": "",
+    "handleId": "20.500.11942/crtq9baqp62ui",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "récit"
+      }
+    ]
+  },
+  {
+    "conceptId": "92",
+    "arkId": "",
+    "handleId": "20.500.11942/crti834pzadnu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres descriptifs et/ou expositifs"
+      }
+    ]
+  },
+  {
+    "conceptId": "56",
+    "arkId": "",
+    "handleId": "20.500.11942/crt5xld5ieh5g",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "intime"
+      },
+      {
+        "lang": "es",
+        "value": "íntimo"
+      },
+      {
+        "lang": "en",
+        "value": "personal"
+      }
+    ]
+  },
+  {
+    "conceptId": "118",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7fw1o2uhak",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "glossaire"
+      },
+      {
+        "lang": "en",
+        "value": "glossary"
+      }
+    ]
+  },
+  {
+    "conceptId": "1",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfjhhb3rsbl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genre de texte"
+      }
+    ]
+  },
+  {
+    "conceptId": "6",
+    "arkId": "",
+    "handleId": "20.500.11942/crtx2rzr35qxd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "domaine de texte"
+      }
+    ]
+  },
+  {
+    "conceptId": "36",
+    "arkId": "",
+    "handleId": "20.500.11942/crtsjqsm8joit",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "factualité"
+      }
+    ]
+  },
+  {
+    "conceptId": "3768",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu6rmahj8n9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "bande dessinée"
+      }
+    ]
+  },
+  {
+    "conceptId": "3769",
+    "arkId": "",
+    "handleId": "20.500.11942/crto3aa8nuzp9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "notice"
+      }
+    ]
+  },
+  {
+    "conceptId": "3773",
+    "arkId": "",
+    "handleId": "20.500.11942/crt21oeas5q91",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fantasy"
+      }
+    ]
+  },
+  {
+    "conceptId": "164",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkz8ndcn48q",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "linguistique"
+      }
+    ]
+  },
+  {
+    "conceptId": "215",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7ekjqhct1q",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "français"
+      }
+    ]
+  },
+  {
+    "conceptId": "4",
+    "arkId": "",
+    "handleId": "20.500.11942/crthuyig1pxri",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman"
+      }
+    ]
+  },
+  {
+    "conceptId": "124",
+    "arkId": "",
+    "handleId": "20.500.11942/crta22ux8kcfp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "histoire"
+      }
+    ]
+  },
+  {
+    "conceptId": "132",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8ozfafz4sr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mémoires"
+      }
+    ]
+  },
+  {
+    "conceptId": "100",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3zgdnk9gwg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chant"
+      }
+    ]
+  },
+  {
+    "conceptId": "144",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvtfvr7bx5j",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "registre"
+      }
+    ]
+  },
+  {
+    "conceptId": "200",
+    "arkId": "",
+    "handleId": "20.500.11942/crtq2c18gy5me",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "forme brève"
+      }
+    ]
+  },
+  {
+    "conceptId": "12",
+    "arkId": "",
+    "handleId": "20.500.11942/crtx9f8h6lhtv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "didactico-scientifique"
+      }
+    ]
+  },
+  {
+    "conceptId": "146",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbrdp6lt5qp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "répertoire"
+      }
+    ]
+  },
+  {
+    "conceptId": "162",
+    "arkId": "",
+    "handleId": "20.500.11942/crtqe71y89rw4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "médecine"
+      }
+    ]
+  },
+  {
+    "conceptId": "170",
+    "arkId": "",
+    "handleId": "20.500.11942/crte6iidhx2bl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "rhétorique"
+      }
+    ]
+  },
+  {
+    "conceptId": "168",
+    "arkId": "",
+    "handleId": "20.500.11942/crtoqsz8djfnd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "géographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "42",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7kyyzoheuw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mixte (factualité)"
+      }
+    ]
+  },
+  {
+    "conceptId": "220",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnq1a4962i6",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "musique et danse"
+      }
+    ]
+  },
+  {
+    "conceptId": "190",
+    "arkId": "",
+    "handleId": "20.500.11942/crtucqssa43x1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1500 - 1600"
+      }
+    ]
+  },
+  {
+    "conceptId": "213",
+    "arkId": "",
+    "handleId": "20.500.11942/crtrqihup67rr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1600 - 1700"
+      }
+    ]
+  },
+  {
+    "conceptId": "5911",
+    "arkId": "",
+    "handleId": "20.500.11942/crtix96dtwjv7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1700 - 1800"
+      }
+    ]
+  },
+  {
+    "conceptId": "206",
+    "arkId": "",
+    "handleId": "20.500.11942/crtscqklytmrw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "bestiaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "96",
+    "arkId": "",
+    "handleId": "20.500.11942/crteo94lrjdlm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "bestiaire d'amour"
+      }
+    ]
+  },
+  {
+    "conceptId": "5897",
+    "arkId": "",
+    "handleId": "20.500.11942/crtqxdu6926si",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman réaliste"
+      }
+    ]
+  },
+  {
+    "conceptId": "5900",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzwjx2swt3s",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman satirique"
+      }
+    ]
+  },
+  {
+    "conceptId": "5917",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6wyirmdtwd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "saynette"
+      }
+    ]
+  },
+  {
+    "conceptId": "5918",
+    "arkId": "",
+    "handleId": "20.500.11942/crtw641m8m5i4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "tragicomedie"
+      }
+    ]
+  },
+  {
+    "conceptId": "5902",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxdb1bgrtr3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie d'intrigue"
+      }
+    ]
+  },
+  {
+    "conceptId": "5907",
+    "arkId": "",
+    "handleId": "20.500.11942/crthkwwhac1vo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie de boulevard"
+      }
+    ]
+  },
+  {
+    "conceptId": "134",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu3w9oqsa9e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chantefable"
+      }
+    ]
+  },
+  {
+    "conceptId": "5920",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjari39i94h",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "opéra"
+      }
+    ]
+  },
+  {
+    "conceptId": "5916",
+    "arkId": "",
+    "handleId": "20.500.11942/crtqz8q4xspj1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "parade de charlatan"
+      }
+    ]
+  },
+  {
+    "conceptId": "58",
+    "arkId": "",
+    "handleId": "20.500.11942/crt76csq9xm15",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres théâtraux"
+      }
+    ]
+  },
+  {
+    "conceptId": "78",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdcqkj5dd38",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chronique"
+      }
+    ]
+  },
+  {
+    "conceptId": "196",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2gr7hdsa7j",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "épître"
+      }
+    ]
+  },
+  {
+    "conceptId": "80",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3cfxaq6v1q",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "hagiographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "70",
+    "arkId": "",
+    "handleId": "20.500.11942/crturi9o7hgs3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "épopée"
+      }
+    ]
+  },
+  {
+    "conceptId": "84",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwrwxdmms3t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "serment"
+      }
+    ]
+  },
+  {
+    "conceptId": "24",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvkb3r8q9ax",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dialogué"
+      }
+    ]
+  },
+  {
+    "conceptId": "64",
+    "arkId": "",
+    "handleId": "20.500.11942/crttvo86uqkd3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "miracle"
+      }
+    ]
+  },
+  {
+    "conceptId": "66",
+    "arkId": "",
+    "handleId": "20.500.11942/crtcxyidc2l4e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "drame"
+      }
+    ]
+  },
+  {
+    "conceptId": "5896",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu2lzrlxc13",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "conte"
+      }
+    ]
+  },
+  {
+    "conceptId": "86",
+    "arkId": "",
+    "handleId": "20.500.11942/crt29jyirw6nq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chanson"
+      }
+    ]
+  },
+  {
+    "conceptId": "176",
+    "arkId": "",
+    "handleId": "20.500.11942/crtq5pez8p8yq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "ode"
+      }
+    ]
+  },
+  {
+    "conceptId": "184",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4g4mzde919",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "chanson poétique"
+      }
+    ]
+  },
+  {
+    "conceptId": "188",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7eevlif3zd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "stance"
+      }
+    ]
+  },
+  {
+    "conceptId": "148",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3fiwe78g1e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "récit de voyage"
+      }
+    ]
+  },
+  {
+    "conceptId": "224",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnd5few6svq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "artistique"
+      }
+    ]
+  },
+  {
+    "conceptId": "8",
+    "arkId": "",
+    "handleId": "20.500.11942/crteb7oodgosm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "littérature"
+      }
+    ]
+  },
+  {
+    "conceptId": "104",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkp8xrrfjdt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "commentaire (genre)"
+      }
+    ]
+  },
+  {
+    "conceptId": "126",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgl5d9idb5q",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "jugement"
+      }
+    ]
+  },
+  {
+    "conceptId": "5895",
+    "arkId": "",
+    "handleId": "20.500.11942/crtngxdaedf22",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "classeur"
+      },
+      {
+        "lang": "en",
+        "value": "file"
+      }
+    ]
+  },
+  {
+    "conceptId": "158",
+    "arkId": "",
+    "handleId": "20.500.11942/crti59xqnfd28",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "commentaire (origine)"
+      },
+      {
+        "lang": "en",
+        "value": "commentory"
+      }
+    ]
+  },
+  {
+    "conceptId": "53349",
+    "arkId": "",
+    "handleId": "20.500.11942/crtg8919mcubl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "commercial"
+      },
+      {
+        "lang": "fr",
+        "value": "commercial"
+      }
+    ]
+  },
+  {
+    "conceptId": "119245",
+    "arkId": "",
+    "handleId": "20.500.11942/crth83xlfse1l",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "correspondance"
+      },
+      {
+        "lang": "fr",
+        "value": "genres épistolaires"
+      }
+    ]
+  },
+  {
+    "conceptId": "26",
+    "arkId": "",
+    "handleId": "20.500.11942/crt78wycx9lv3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "poetic"
+      },
+      {
+        "lang": "fr",
+        "value": "poétique"
+      }
+    ]
+  },
+  {
+    "conceptId": "5892",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxuuuj2omwm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "journal"
+      }
+    ]
+  },
+  {
+    "conceptId": "5894",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwk73gn31mq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "livret"
+      }
+    ]
+  },
+  {
+    "conceptId": "7095",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9c1xkp9yro",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "liasse"
+      }
+    ]
+  },
+  {
+    "conceptId": "152",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxolq1evsr9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "œuvre originale"
+      }
+    ]
+  },
+  {
+    "conceptId": "182",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2bhd2wl4yw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "satirique"
+      }
+    ]
+  },
+  {
+    "conceptId": "20",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4wma17ncnj",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "narratif"
+      }
+    ]
+  },
+  {
+    "conceptId": "32",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3kgn8ok5o5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "explicatif"
+      }
+    ]
+  },
+  {
+    "conceptId": "34",
+    "arkId": "",
+    "handleId": "20.500.11942/crthn3ar6hvbq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "prédictif"
+      }
+    ]
+  },
+  {
+    "conceptId": "172",
+    "arkId": "",
+    "handleId": "20.500.11942/crtc579rksqcw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (didactico-scientifique)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119220",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfry2hhwr1w",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sciences occultes"
+      }
+    ]
+  },
+  {
+    "conceptId": "119225",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2qwe3dx48b",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (biographie)"
+      }
+    ]
+  },
+  {
+    "conceptId": "169984",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxibqbr7pyz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "grammaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "169896",
+    "arkId": "",
+    "handleId": "20.500.11942/crtenizzeekqg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "vie"
+      }
+    ]
+  },
+  {
+    "conceptId": "169990",
+    "arkId": "",
+    "handleId": "20.500.11942/crt725puyip5e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "idylle"
+      }
+    ]
+  },
+  {
+    "conceptId": "169996",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfmnixp5m5n",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mots croisés"
+      }
+    ]
+  },
+  {
+    "conceptId": "170000",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgnnb9eqolc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "jeu de mots"
+      }
+    ]
+  },
+  {
+    "conceptId": "169988",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgp6g8k7akk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "hymne"
+      }
+    ]
+  },
+  {
+    "conceptId": "169992",
+    "arkId": "",
+    "handleId": "20.500.11942/crth3xialrgpx",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "églogue"
+      }
+    ]
+  },
+  {
+    "conceptId": "169920",
+    "arkId": "",
+    "handleId": "20.500.11942/crth3pojyszw8",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autofiction"
+      }
+    ]
+  },
+  {
+    "conceptId": "169886",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnnx8ley6cs",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres gnomiques"
+      }
+    ]
+  },
+  {
+    "conceptId": "170016",
+    "arkId": "",
+    "handleId": "20.500.11942/crt27vj8vf8oq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mystère"
+      }
+    ]
+  },
+  {
+    "conceptId": "170018",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvy8yogyb7s",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "oaristys"
+      }
+    ]
+  },
+  {
+    "conceptId": "169950",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9o3v46eqbv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "devinette"
+      }
+    ]
+  },
+  {
+    "conceptId": "119248",
+    "arkId": "",
+    "handleId": "20.500.11942/crt33sjxdiol5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (chanson)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119237",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9h2fzxo7yi",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (théâtre)"
+      }
+    ]
+  },
+  {
+    "conceptId": "170028",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8sel4s3jnw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pastourelle"
+      }
+    ]
+  },
+  {
+    "conceptId": "170032",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgibx269t7c",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman picaresque"
+      }
+    ]
+  },
+  {
+    "conceptId": "170038",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvkdji4td5u",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "reportage"
+      }
+    ]
+  },
+  {
+    "conceptId": "170042",
+    "arkId": "",
+    "handleId": "20.500.11942/crtb9ii5cgzym",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman de chevalerie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170050",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgkh7xtyxa3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman d'espionnage"
+      }
+    ]
+  },
+  {
+    "conceptId": "170056",
+    "arkId": "",
+    "handleId": "20.500.11942/crtc1cf2a6fmj",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "scénario"
+      }
+    ]
+  },
+  {
+    "conceptId": "170062",
+    "arkId": "",
+    "handleId": "20.500.11942/crtaskol1srkp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "triolet"
+      }
+    ]
+  },
+  {
+    "conceptId": "170066",
+    "arkId": "",
+    "handleId": "20.500.11942/crtu2tcfy6juq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "virelai"
+      }
+    ]
+  },
+  {
+    "conceptId": "170068",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjx4p23ebnn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "virelangue"
+      }
+    ]
+  },
+  {
+    "conceptId": "170064",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxepmzlnyej",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "villanelle"
+      }
+    ]
+  },
+  {
+    "conceptId": "3757",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkl51dfn972",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mixte (forme)"
+      }
+    ]
+  },
+  {
+    "conceptId": "3761",
+    "arkId": "",
+    "handleId": "20.500.11942/crtg28f84f3ev",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "photographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "3770",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfbdkx9c8a3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "poster"
+      }
+    ]
+  },
+  {
+    "conceptId": "169888",
+    "arkId": "",
+    "handleId": "20.500.11942/crtccjnlfkjzq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "carte postale"
+      }
+    ]
+  },
+  {
+    "conceptId": "170132",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4lp3eoyn8n",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (texte illustré)"
+      }
+    ]
+  },
+  {
+    "conceptId": "140",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgk8tulk9xd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "devise"
+      }
+    ]
+  },
+  {
+    "conceptId": "5909",
+    "arkId": "",
+    "handleId": "20.500.11942/crtyo8kufgnju",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman absurde"
+      }
+    ]
+  },
+  {
+    "conceptId": "5891",
+    "arkId": "",
+    "handleId": "20.500.11942/crtg32d2bzhab",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "latin"
+      }
+    ]
+  },
+  {
+    "conceptId": "108",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvicgh6hl4t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "coutumier"
+      }
+    ]
+  },
+  {
+    "conceptId": "204",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdv6g2mswwm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "discours"
+      }
+    ]
+  },
+  {
+    "conceptId": "169894",
+    "arkId": "",
+    "handleId": "20.500.11942/crt277p38t6ib",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "aphorisme"
+      }
+    ]
+  },
+  {
+    "conceptId": "90",
+    "arkId": "",
+    "handleId": "20.500.11942/crt47ltu51jee",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "lai"
+      }
+    ]
+  },
+  {
+    "conceptId": "72",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxhwwsncupg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "lyrique"
+      }
+    ]
+  },
+  {
+    "conceptId": "142",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwik9yd7674",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "recette"
+      }
+    ]
+  },
+  {
+    "conceptId": "110",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3vibj4w8gv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "description géographique"
+      }
+    ]
+  },
+  {
+    "conceptId": "156",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4fufktxzns",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "adaptation"
+      }
+    ]
+  },
+  {
+    "conceptId": "22",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwfptok1haa",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "argumentatif"
+      }
+    ]
+  },
+  {
+    "conceptId": "5913",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkoxi3jrpgf",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie larmoyante"
+      }
+    ]
+  },
+  {
+    "conceptId": "5915",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9dxh58cev1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie héroique"
+      }
+    ]
+  },
+  {
+    "conceptId": "98",
+    "arkId": "",
+    "handleId": "20.500.11942/crtuhwcb515f5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "biographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "76",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkl1p363ish",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "journal intime"
+      }
+    ]
+  },
+  {
+    "conceptId": "7082",
+    "arkId": "",
+    "handleId": "20.500.11942/crtk9z281e4wb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "inscription"
+      }
+    ]
+  },
+  {
+    "conceptId": "119221",
+    "arkId": "",
+    "handleId": "20.500.11942/crti3lkpchsi4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "utopie / dystopie"
+      }
+    ]
+  },
+  {
+    "conceptId": "119223",
+    "arkId": "",
+    "handleId": "20.500.11942/crtudrzoztn7e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (minute)"
+      }
+    ]
+  },
+  {
+    "conceptId": "170022",
+    "arkId": "",
+    "handleId": "20.500.11942/crtiql77due18",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "oraison funèbre"
+      }
+    ]
+  },
+  {
+    "conceptId": "170030",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdaxadwynnh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pensée"
+      }
+    ]
+  },
+  {
+    "conceptId": "170040",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkeekyqushv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman à clefs"
+      }
+    ]
+  },
+  {
+    "conceptId": "170048",
+    "arkId": "",
+    "handleId": "20.500.11942/crteuetdxw6nt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman gothique"
+      }
+    ]
+  },
+  {
+    "conceptId": "170052",
+    "arkId": "",
+    "handleId": "20.500.11942/crtl1ig2edvkh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "rondeau"
+      }
+    ]
+  },
+  {
+    "conceptId": "53353",
+    "arkId": "",
+    "handleId": "20.500.11942/crt941193r8pk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "réalisme"
+      }
+    ]
+  },
+  {
+    "conceptId": "170130",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvp9755qyli",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "numérique"
+      }
+    ]
+  },
+  {
+    "conceptId": "170114",
+    "arkId": "",
+    "handleId": "20.500.11942/crttva3gheiyo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "actes de colloque"
+      }
+    ]
+  },
+  {
+    "conceptId": "139014",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8fnaaxbn7n",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "noms propres"
+      }
+    ]
+  },
+  {
+    "conceptId": "139016",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9mxxmfrevu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "normatif"
+      }
+    ]
+  },
+  {
+    "conceptId": "139018",
+    "arkId": "",
+    "handleId": "20.500.11942/crtsx976byycu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "testament"
+      }
+    ]
+  },
+  {
+    "conceptId": "139019",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3jsgq45oss",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "inventaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "139020",
+    "arkId": "",
+    "handleId": "20.500.11942/crttb1w2e55vy",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sommaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "139024",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvgh66y3h71",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "florilège"
+      }
+    ]
+  },
+  {
+    "conceptId": "139028",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6na11jkvyz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "article scientifique"
+      }
+    ]
+  },
+  {
+    "conceptId": "139027",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7385zaqurh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mélanges"
+      }
+    ]
+  },
+  {
+    "conceptId": "139037",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6d6su98tgu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "numérisé"
+      }
+    ]
+  },
+  {
+    "conceptId": "163682",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlm1ed7ugmb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "théâtre de société"
+      }
+    ]
+  },
+  {
+    "conceptId": "169822",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwi4z653bgm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "opera comique"
+      }
+    ]
+  },
+  {
+    "conceptId": "139025",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxf71gw6p51",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "anthologie"
+      }
+    ]
+  },
+  {
+    "conceptId": "139029",
+    "arkId": "",
+    "handleId": "20.500.11942/crthidv6aen4d",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "annonce"
+      }
+    ]
+  },
+  {
+    "conceptId": "139031",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxo12qwdhjw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "histoire dérivée"
+      }
+    ]
+  },
+  {
+    "conceptId": "139033",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzqt9jvlqp1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "recension"
+      }
+    ]
+  },
+  {
+    "conceptId": "139032",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8uxh66fktk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "résumé"
+      }
+    ]
+  },
+  {
+    "conceptId": "5903",
+    "arkId": "",
+    "handleId": "20.500.11942/crt73z7hbhbju",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie de caractère"
+      }
+    ]
+  },
+  {
+    "conceptId": "5919",
+    "arkId": "",
+    "handleId": "20.500.11942/crt384oz73wxr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "intermède"
+      }
+    ]
+  },
+  {
+    "conceptId": "169826",
+    "arkId": "",
+    "handleId": "20.500.11942/crt22aacdhvi7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fiction"
+      }
+    ]
+  },
+  {
+    "conceptId": "139017",
+    "arkId": "",
+    "handleId": "20.500.11942/crtee6qv2bwfn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "abrégé"
+      }
+    ]
+  },
+  {
+    "conceptId": "5912",
+    "arkId": "",
+    "handleId": "20.500.11942/crtefjtki5afc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pamphlet"
+      }
+    ]
+  },
+  {
+    "conceptId": "53357",
+    "arkId": "",
+    "handleId": "20.500.11942/crtuh9k75m5so",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "présentation"
+      }
+    ]
+  },
+  {
+    "conceptId": "169830",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbhm1m2ugkn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres journalistiques et médiatiques"
+      }
+    ]
+  },
+  {
+    "conceptId": "169820",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmayqwscuc9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "vaudeville (XVIIIe siècle)"
+      }
+    ]
+  },
+  {
+    "conceptId": "169832",
+    "arkId": "",
+    "handleId": "20.500.11942/crthyj6sewrfv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres argumentatifs"
+      }
+    ]
+  },
+  {
+    "conceptId": "139030",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9w8ru79wi1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "prequel"
+      }
+    ]
+  },
+  {
+    "conceptId": "3439",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9rj1jedjax",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "2000 - act"
+      }
+    ]
+  },
+  {
+    "conceptId": "3759",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbjifgjv223",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "beaux-arts"
+      }
+    ]
+  },
+  {
+    "conceptId": "3449",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdcug3vf8t3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "catalogue"
+      }
+    ]
+  },
+  {
+    "conceptId": "3762",
+    "arkId": "",
+    "handleId": "20.500.11942/crtj8cml4ekjv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "note"
+      }
+    ]
+  },
+  {
+    "conceptId": "169884",
+    "arkId": "",
+    "handleId": "20.500.11942/crt43dhqstt8p",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "actes de manifestations scientifiques"
+      }
+    ]
+  },
+  {
+    "conceptId": "3772",
+    "arkId": "",
+    "handleId": "20.500.11942/crtiblyknar3y",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (fictif)"
+      }
+    ]
+  },
+  {
+    "conceptId": "202",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4p3jbdlvck",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "recueil"
+      }
+    ]
+  },
+  {
+    "conceptId": "180",
+    "arkId": "",
+    "handleId": "20.500.11942/crteuhh5uwokm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "essai"
+      }
+    ]
+  },
+  {
+    "conceptId": "5899",
+    "arkId": "",
+    "handleId": "20.500.11942/crttyd22mjhnv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman policier"
+      }
+    ]
+  },
+  {
+    "conceptId": "5905",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4tgtmhevdk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "prologue"
+      }
+    ]
+  },
+  {
+    "conceptId": "166",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7ir9f619m6",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "philosophie"
+      }
+    ]
+  },
+  {
+    "conceptId": "46",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnufdew1lfb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "prose"
+      }
+    ]
+  },
+  {
+    "conceptId": "211",
+    "arkId": "",
+    "handleId": "20.500.11942/crtc3qvq89lxp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "0000 - 0500 Antiquité"
+      }
+    ]
+  },
+  {
+    "conceptId": "178",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbj24s3yr3t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman historique"
+      }
+    ]
+  },
+  {
+    "conceptId": "5908",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3aguxbp1y7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman comique"
+      }
+    ]
+  },
+  {
+    "conceptId": "112",
+    "arkId": "",
+    "handleId": "20.500.11942/crtb1l6jog4wl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dialogue"
+      }
+    ]
+  },
+  {
+    "conceptId": "5901",
+    "arkId": "",
+    "handleId": "20.500.11942/crtsfcmpmw6tg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie de mœurs"
+      }
+    ]
+  },
+  {
+    "conceptId": "74",
+    "arkId": "",
+    "handleId": "20.500.11942/crtcugbwg1ncp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "lettre"
+      }
+    ]
+  },
+  {
+    "conceptId": "5910",
+    "arkId": "",
+    "handleId": "20.500.11942/crtb989p3r3l5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "proverbe dramatique"
+      }
+    ]
+  },
+  {
+    "conceptId": "62",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvhxx3ua7ik",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "tragédie"
+      }
+    ]
+  },
+  {
+    "conceptId": "82",
+    "arkId": "",
+    "handleId": "20.500.11942/crtyxwlobyutu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sermon"
+      }
+    ]
+  },
+  {
+    "conceptId": "174",
+    "arkId": "",
+    "handleId": "20.500.11942/crt1g4lmfvte2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sonnet"
+      }
+    ]
+  },
+  {
+    "conceptId": "106",
+    "arkId": "",
+    "handleId": "20.500.11942/crtql1fk5i2lo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comput"
+      }
+    ]
+  },
+  {
+    "conceptId": "60",
+    "arkId": "",
+    "handleId": "20.500.11942/crtx3hfaa3l8y",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie"
+      }
+    ]
+  },
+  {
+    "conceptId": "5893",
+    "arkId": "",
+    "handleId": "20.500.11942/crty4ye49pni2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "revue"
+      }
+    ]
+  },
+  {
+    "conceptId": "154",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxd9cteirpp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "traduction"
+      }
+    ]
+  },
+  {
+    "conceptId": "28",
+    "arkId": "",
+    "handleId": "20.500.11942/crtw9mfq2rmr2",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "injonctif"
+      }
+    ]
+  },
+  {
+    "conceptId": "119219",
+    "arkId": "",
+    "handleId": "20.500.11942/crt94i7wscq83",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (artistique)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119224",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4yeomn5hz9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (acte)"
+      }
+    ]
+  },
+  {
+    "conceptId": "169986",
+    "arkId": "",
+    "handleId": "20.500.11942/crtocxat87215",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "haïku"
+      }
+    ]
+  },
+  {
+    "conceptId": "169998",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjk6dmitw63",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "introduction"
+      }
+    ]
+  },
+  {
+    "conceptId": "169994",
+    "arkId": "",
+    "handleId": "20.500.11942/crto8uxhhf8ar",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "intégramme"
+      }
+    ]
+  },
+  {
+    "conceptId": "169974",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkykjmx7c7e",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "texte interactif"
+      }
+    ]
+  },
+  {
+    "conceptId": "119246",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlystc8w5u7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "continuation"
+      }
+    ]
+  },
+  {
+    "conceptId": "170026",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlxzydhqd7l",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "parabole"
+      }
+    ]
+  },
+  {
+    "conceptId": "170034",
+    "arkId": "",
+    "handleId": "20.500.11942/crtky5i46d5kl",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "poème en prose"
+      }
+    ]
+  },
+  {
+    "conceptId": "170054",
+    "arkId": "",
+    "handleId": "20.500.11942/crted2i6m948a",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "rondel"
+      }
+    ]
+  },
+  {
+    "conceptId": "170058",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzrij99b8dj",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sirventès"
+      }
+    ]
+  },
+  {
+    "conceptId": "3437",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3dntju1v1v",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "1900 - 2000"
+      }
+    ]
+  },
+  {
+    "conceptId": "3767",
+    "arkId": "",
+    "handleId": "20.500.11942/crte54phq98h3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "album"
+      }
+    ]
+  },
+  {
+    "conceptId": "170112",
+    "arkId": "",
+    "handleId": "20.500.11942/crte1dobaynuc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "élégie antique"
+      }
+    ]
+  },
+  {
+    "conceptId": "5898",
+    "arkId": "",
+    "handleId": "20.500.11942/crtav1qqvs7ai",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman philosophique"
+      }
+    ]
+  },
+  {
+    "conceptId": "40",
+    "arkId": "",
+    "handleId": "20.500.11942/crtj719emok9u",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "non fictif"
+      }
+    ]
+  },
+  {
+    "conceptId": "186",
+    "arkId": "",
+    "handleId": "20.500.11942/crt1rcg5cpvwo",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "ode pindarique"
+      }
+    ]
+  },
+  {
+    "conceptId": "102",
+    "arkId": "",
+    "handleId": "20.500.11942/crt8yy29iihqc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "charte"
+      }
+    ]
+  },
+  {
+    "conceptId": "30",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwllfyr2jcm",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "descriptif"
+      }
+    ]
+  },
+  {
+    "conceptId": "5904",
+    "arkId": "",
+    "handleId": "20.500.11942/crtuvshckfzfr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "comédie à tiroirs"
+      }
+    ]
+  },
+  {
+    "conceptId": "170020",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzp3al41p4o",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "notice nécrologique"
+      }
+    ]
+  },
+  {
+    "conceptId": "170044",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmse52p2es5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "roman épistolaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "53351",
+    "arkId": "",
+    "handleId": "20.500.11942/crthb4el4r5qc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "non défini (public cible)"
+      }
+    ]
+  },
+  {
+    "conceptId": "170134",
+    "arkId": "",
+    "handleId": "20.500.11942/crtr9q9mq19qh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (domaine de texte)"
+      }
+    ]
+  },
+  {
+    "conceptId": "138",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3krwiuj66x",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "procès verbal"
+      }
+    ]
+  },
+  {
+    "conceptId": "119218",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9v4u71bdpr",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (dictionnaire)"
+      },
+      {
+        "lang": "en",
+        "value": "dictionary"
+      }
+    ]
+  },
+  {
+    "conceptId": "114",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxb5smzi3al",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "encyclopaedia"
+      },
+      {
+        "lang": "fr",
+        "value": "encyclopédie"
+      }
+    ]
+  },
+  {
+    "conceptId": "14",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7hdbkg2shu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "juridique"
+      },
+      {
+        "lang": "en",
+        "value": "legal"
+      }
+    ]
+  },
+  {
+    "conceptId": "150",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzqi2gyikt5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "origine"
+      }
+    ]
+  },
+  {
+    "conceptId": "5890",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4gynmce1dg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "es",
+        "value": "agenda"
+      },
+      {
+        "lang": "fr",
+        "value": "agenda"
+      },
+      {
+        "lang": "en",
+        "value": "organizer"
+      }
+    ]
+  },
+  {
+    "conceptId": "228",
+    "arkId": "",
+    "handleId": "20.500.11942/crtotm9cepwa1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "mode d'agencement"
+      }
+    ]
+  },
+  {
+    "conceptId": "52",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgczl2bqpp1",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "communicational"
+      },
+      {
+        "lang": "fr",
+        "value": "communicationnel"
+      }
+    ]
+  },
+  {
+    "conceptId": "5887",
+    "arkId": "",
+    "handleId": "20.500.11942/crtd589t5sihw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "prosimètre"
+      }
+    ]
+  },
+  {
+    "conceptId": "176457",
+    "arkId": "",
+    "handleId": "20.500.11942/crtq2xbbbqrz3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (origine)"
+      }
+    ]
+  },
+  {
+    "conceptId": "170493",
+    "arkId": "",
+    "handleId": "20.500.11942/crt1sq8v5x12g",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "transcription"
+      }
+    ]
+  },
+  {
+    "conceptId": "170589",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnl6uowzgh3",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "annotation"
+      }
+    ]
+  },
+  {
+    "conceptId": "170495",
+    "arkId": "",
+    "handleId": "20.500.11942/crti3tdrp41jc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "parodie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170497",
+    "arkId": "",
+    "handleId": "20.500.11942/crtahhe19tm1i",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "bibliographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170591",
+    "arkId": "",
+    "handleId": "20.500.11942/crtn9wwlwc5us",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "monographie"
+      }
+    ]
+  },
+  {
+    "conceptId": "170593",
+    "arkId": "",
+    "handleId": "20.500.11942/crtpgeskrvpjv",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "volumen"
+      }
+    ]
+  },
+  {
+    "conceptId": "177797",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgj7nhrej9r",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "femme_entrée_scène"
+      }
+    ]
+  },
+  {
+    "conceptId": "139011",
+    "arkId": "",
+    "handleId": "20.500.11942/crtawxxjnfsyp",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "es",
+        "value": ""
+      },
+      {
+        "lang": "fr",
+        "value": "genres lexicographiques"
+      },
+      {
+        "lang": "en",
+        "value": "lexicographical genres"
+      }
+    ]
+  },
+  {
+    "conceptId": "139013",
+    "arkId": "",
+    "handleId": "20.500.11942/crt3fictibfuy",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dictionnaire de choses"
+      }
+    ]
+  },
+  {
+    "conceptId": "139012",
+    "arkId": "",
+    "handleId": "20.500.11942/crtrdyexzd38q",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (ouvrage lexicographique)"
+      }
+    ]
+  },
+  {
+    "conceptId": "139021",
+    "arkId": "",
+    "handleId": "20.500.11942/crtvseguv7g55",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "index"
+      }
+    ]
+  },
+  {
+    "conceptId": "139023",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmxpir6vyro",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "concordance"
+      }
+    ]
+  },
+  {
+    "conceptId": "139026",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmdfhqiid9c",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (recueil)"
+      }
+    ]
+  },
+  {
+    "conceptId": "163680",
+    "arkId": "",
+    "handleId": "20.500.11942/crtp7cbjv7b34",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "parade de société"
+      }
+    ]
+  },
+  {
+    "conceptId": "139034",
+    "arkId": "",
+    "handleId": "20.500.11942/crthy6j6jf9nq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "imprimé"
+      }
+    ]
+  },
+  {
+    "conceptId": "139035",
+    "arkId": "",
+    "handleId": "20.500.11942/crt2eus294wdt",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "manuscrit"
+      }
+    ]
+  },
+  {
+    "conceptId": "139038",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlvnv8ifdqd",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "farce"
+      }
+    ]
+  },
+  {
+    "conceptId": "139039",
+    "arkId": "",
+    "handleId": "20.500.11942/crt64on2cq1o8",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "sottie"
+      }
+    ]
+  },
+  {
+    "conceptId": "5914",
+    "arkId": "",
+    "handleId": "20.500.11942/crtfqwngge7sz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "drame bourgeois"
+      }
+    ]
+  },
+  {
+    "conceptId": "163679",
+    "arkId": "",
+    "handleId": "20.500.11942/crtr69efphmzy",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "parade foraine"
+      }
+    ]
+  },
+  {
+    "conceptId": "139004",
+    "arkId": "",
+    "handleId": "20.500.11942/crtuabnz69jsh",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fiche"
+      }
+    ]
+  },
+  {
+    "conceptId": "139009",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkodqmk5ckw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "annuaire"
+      }
+    ]
+  },
+  {
+    "conceptId": "139010",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjvg9jh4g4o",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "guide"
+      }
+    ]
+  },
+  {
+    "conceptId": "139005",
+    "arkId": "",
+    "handleId": "20.500.11942/crtra1fic6wxu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "pratique"
+      }
+    ]
+  },
+  {
+    "conceptId": "139006",
+    "arkId": "",
+    "handleId": "20.500.11942/crt76lnpud34t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "encyclopédique"
+      }
+    ]
+  },
+  {
+    "conceptId": "139007",
+    "arkId": "",
+    "handleId": "20.500.11942/crt9h3i9rkp4t",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "monolingue"
+      }
+    ]
+  },
+  {
+    "conceptId": "139008",
+    "arkId": "",
+    "handleId": "20.500.11942/crtbh8oihqdfj",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "multilingue"
+      }
+    ]
+  },
+  {
+    "conceptId": "119226",
+    "arkId": "",
+    "handleId": "20.500.11942/crtui8h5azka9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dictionnaire de langue"
+      }
+    ]
+  },
+  {
+    "conceptId": "163678",
+    "arkId": "",
+    "handleId": "20.500.11942/crtlf2rc2yskb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (type de discours)"
+      }
+    ]
+  },
+  {
+    "conceptId": "165972",
+    "arkId": "",
+    "handleId": "20.500.11942/crtnqhtdefglq",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "aube"
+      }
+    ]
+  },
+  {
+    "conceptId": "139022",
+    "arkId": "",
+    "handleId": "20.500.11942/crt544k9i1t8w",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "lexique"
+      }
+    ]
+  },
+  {
+    "conceptId": "165973",
+    "arkId": "",
+    "handleId": "20.500.11942/crtrbp3kbypdz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "es",
+        "value": "comedia de capa y espada"
+      },
+      {
+        "lang": "fr",
+        "value": "comédie de cape et d'épée"
+      }
+    ]
+  },
+  {
+    "conceptId": "165975",
+    "arkId": "",
+    "handleId": "20.500.11942/crts2e1mejgyc",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "moralité"
+      }
+    ]
+  },
+  {
+    "conceptId": "165995",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6s8gvkmltb",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "œuvres"
+      }
+    ]
+  },
+  {
+    "conceptId": "165996",
+    "arkId": "",
+    "handleId": "20.500.11942/crtl8384dpyw6",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "Public cible"
+      }
+    ]
+  },
+  {
+    "conceptId": "165997",
+    "arkId": "",
+    "handleId": "20.500.11942/crtxdoh5fggdg",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "Support"
+      }
+    ]
+  },
+  {
+    "conceptId": "165999",
+    "arkId": "",
+    "handleId": "20.500.11942/crtjg74uocfpn",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "tapuscrit"
+      }
+    ]
+  },
+  {
+    "conceptId": "166000",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwtqfkvf2z9",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "billet"
+      }
+    ]
+  },
+  {
+    "conceptId": "166001",
+    "arkId": "",
+    "handleId": "20.500.11942/crtc5az4kxze7",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (correspondance)"
+      }
+    ]
+  },
+  {
+    "conceptId": "165974",
+    "arkId": "",
+    "handleId": "20.500.11942/crt57mn3fihp6",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "débat"
+      },
+      {
+        "lang": "en",
+        "value": "debate"
+      }
+    ]
+  },
+  {
+    "conceptId": "165971",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgkc5zlmuou",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "bilingual"
+      },
+      {
+        "lang": "fr",
+        "value": "bilingue"
+      }
+    ]
+  },
+  {
+    "conceptId": "3433",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzc1ldwhuyw",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "genres poétiques"
+      },
+      {
+        "lang": "en",
+        "value": "poetic genre"
+      }
+    ]
+  },
+  {
+    "conceptId": "167740",
+    "arkId": "",
+    "handleId": "20.500.11942/crt168c4j7rks",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "courriel"
+      }
+    ]
+  },
+  {
+    "conceptId": "167737",
+    "arkId": "",
+    "handleId": "20.500.11942/crt5hkgfw3l39",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "édition"
+      }
+    ]
+  },
+  {
+    "conceptId": "167738",
+    "arkId": "",
+    "handleId": "20.500.11942/crtw27liyv7ww",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "comical"
+      },
+      {
+        "lang": "fr",
+        "value": "comique"
+      }
+    ]
+  },
+  {
+    "conceptId": "167739",
+    "arkId": "",
+    "handleId": "20.500.11942/crtr1s2abdxu4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "Adult"
+      },
+      {
+        "lang": "fr",
+        "value": "adulte"
+      },
+      {
+        "lang": "es",
+        "value": "adulto"
+      }
+    ]
+  },
+  {
+    "conceptId": "169818",
+    "arkId": "",
+    "handleId": "20.500.11942/crtx5beeyskx5",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "graphique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169824",
+    "arkId": "",
+    "handleId": "20.500.11942/crtujjoek2xtz",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "dramatique"
+      }
+    ]
+  },
+  {
+    "conceptId": "169928",
+    "arkId": "",
+    "handleId": "20.500.11942/crt4ypoozf27h",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "blason"
+      },
+      {
+        "lang": "en",
+        "value": "coat of arms"
+      }
+    ]
+  },
+  {
+    "conceptId": "330654",
+    "arkId": "",
+    "handleId": "20.500.11942/crtdqf4wpecfu",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (genres argumentatifs)"
+      }
+    ]
+  },
+  {
+    "conceptId": "119235",
+    "arkId": "",
+    "handleId": "20.500.11942/crthx5mon8iyi",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autre (poésie)"
+      },
+      {
+        "lang": "en",
+        "value": "other poetry"
+      }
+    ]
+  },
+  {
+    "conceptId": "5889",
+    "arkId": "",
+    "handleId": "20.500.11942/crt16xrx2dw8u",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "cahier"
+      },
+      {
+        "lang": "en",
+        "value": "notebook"
+      }
+    ]
+  },
+  {
+    "conceptId": "5888",
+    "arkId": "",
+    "handleId": "20.500.11942/crtkdc72mns6p",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "carnet"
+      },
+      {
+        "lang": "en",
+        "value": "pocket book"
+      }
+    ]
+  },
+  {
+    "conceptId": "208",
+    "arkId": "",
+    "handleId": "20.500.11942/crtwt8ougqcr8",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "0500 - 1400 Moyen Âge"
+      },
+      {
+        "lang": "en",
+        "value": "Middle Ages"
+      }
+    ]
+  },
+  {
+    "conceptId": "170036",
+    "arkId": "",
+    "handleId": "20.500.11942/crtyv2hqsylss",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "es",
+        "value": "pornográfico"
+      },
+      {
+        "lang": "en",
+        "value": "pornographic"
+      },
+      {
+        "lang": "fr",
+        "value": "pornographique"
+      }
+    ]
+  },
+  {
+    "conceptId": "53359",
+    "arkId": "",
+    "handleId": "20.500.11942/crtzr2joytsww",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "actes juridiques"
+      },
+      {
+        "lang": "en",
+        "value": "Legal documents"
+      }
+    ]
+  },
+  {
+    "conceptId": "3763",
+    "arkId": "",
+    "handleId": "20.500.11942/crtq6egulhcx4",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "autres genres"
+      },
+      {
+        "lang": "en",
+        "value": "Other genre"
+      }
+    ]
+  },
+  {
+    "conceptId": "38",
+    "arkId": "",
+    "handleId": "20.500.11942/crt7c9jk97qhk",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "fictif"
+      },
+      {
+        "lang": "en",
+        "value": "Fictional"
+      }
+    ]
+  },
+  {
+    "conceptId": "226",
+    "arkId": "",
+    "handleId": "20.500.11942/crtobbbynjfw6",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "book"
+      },
+      {
+        "lang": "es",
+        "value": "libro"
+      },
+      {
+        "lang": "fr",
+        "value": "livre"
+      }
+    ]
+  },
+  {
+    "conceptId": "169932",
+    "arkId": "",
+    "handleId": "20.500.11942/crtgafblg4ots",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "fr",
+        "value": "centon"
+      }
+    ]
+  },
+  {
+    "conceptId": "400836",
+    "arkId": "",
+    "handleId": "20.500.11942/crt6lcxlytm7n",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "en",
+        "value": "tutorial"
+      },
+      {
+        "lang": "es",
+        "value": "tutorial"
+      },
+      {
+        "lang": "fr",
+        "value": "tutoriel"
+      }
+    ]
+  },
+  {
+    "conceptId": "3765",
+    "arkId": "",
+    "handleId": "20.500.11942/crtmqqgeugr5b",
+    "notation": "",
+    "traduction": [
+      {
+        "lang": "es",
+        "value": "novela sentimental"
+      },
+      {
+        "lang": "en",
+        "value": "romance"
+      },
+      {
+        "lang": "fr",
+        "value": "roman sentimental"
+      }
+    ]
+  }
+]
